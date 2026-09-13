@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "created": "2026-08-18T14:40:18.699324",
+    "name": "map_20260818_144018"
+  },
+  "mapping": {
+    "[Person]": {
+      "original": "Соколов Дмитрий Павлович\nТелефон",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/Документ Microsoft Word.docx"
+      ]
+    },
+    "[Phone]": {
+      "original": "+7 (903) 555-12-34",
+      "category": "PHONE",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/Документ Microsoft Word.docx"
+      ]
+    }
+  }
+}

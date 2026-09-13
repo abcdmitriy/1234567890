@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "created": "2026-08-17T15:50:29.507609",
+    "name": "map_20260817_155029"
+  },
+  "mapping": {
+    "[Org]": {
+      "original": "ТехноТрейд",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/test1.docx"
+      ]
+    },
+    "[Person]": {
+      "original": "Петрова Петра Петровича",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/test1.docx"
+      ]
+    },
+    "[Person2]": {
+      "original": "Иванов Иван Иванович",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/test1.docx"
+      ]
+    },
+    "[Passport]": {
+      "original": "серия 4508 № 123456",
+      "category": "PASSPORT",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/test1.docx"
+      ]
+    },
+    "[Org2]": {
+      "original": "ОВД «Тверской",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/test1.docx"
+      ]
+    },
+    "[Address]": {
+      "original": "г. Москвы 12.05.2010",
+      "category": "ADDRESS",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/test1.docx"
+      ]
+    },
+    "[DeptCode]": {
+      "original": "код подразделения 772-001",
+      "category": "DEPT_CODE",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/test1.docx"
+      ]
+    },
+    "[Address2]": {
+      "original": "г. Москва, ул. Тверская, д. 1, кв. 10",
+      "category": "ADDRESS",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/test1.docx"
+      ]
+    },
+    "[Person3]": {
+      "original": "Иванов Иван Иванович\nПаспорт",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/test1.docx"
+      ]
+    },
+    "[Phone]": {
+      "original": "+7 (495) 123-45-67",
+      "category": "PHONE",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/test1.docx"
+      ]
+    },
+    "[Person4]": {
+      "original": "Иванов И.И.",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/test1.docx"
+      ]
+    }
+  }
+}

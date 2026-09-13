@@ -1,0 +1,183 @@
+{
+  "metadata": {
+    "created": "2026-08-17T15:22:16.212329",
+    "name": "map_20260817_152216"
+  },
+  "mapping": {
+    "[Org]": {
+      "original": "Центральный районный суд",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[INN]": {
+      "original": "ИНН 8781310248",
+      "category": "INN",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[BIC]": {
+      "original": "770701001",
+      "category": "BIC",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[Address]": {
+      "original": "г. Москва,\nул. Складочная, д. 3, стр. 5, офис 412",
+      "category": "ADDRESS",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[Phone]": {
+      "original": "+7 (495) 000-00-01",
+      "category": "PHONE",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[Email]": {
+      "original": "почта: office@severproekt.ru",
+      "category": "EMAIL",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[Person]": {
+      "original": "Иванов Алексей Сергеевич",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[Passport]": {
+      "original": "серия 50 18 № 234567",
+      "category": "PASSPORT",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[Org2]": {
+      "original": "ГУ",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[Org3]": {
+      "original": "МВД",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[DeptCode]": {
+      "original": "код подразделения 540-001",
+      "category": "DEPT_CODE",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[Address2]": {
+      "original": "г. Новосибирск, ул. Мичурина, д. 18, кв. 42",
+      "category": "ADDRESS",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[Phone2]": {
+      "original": "+7 (913) 000-00-02",
+      "category": "PHONE",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[Email2]": {
+      "original": "почта: ivanov.as@example.ru",
+      "category": "EMAIL",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[Org4]": {
+      "original": "ЗАЯВЛЕНИЕ",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[Org5]": {
+      "original": "ООО «Северный проект",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[Person2]": {
+      "original": "Ивановым Алексеем Сергеевичем",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[Org6]": {
+      "original": "Ответчик",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[Org7]": {
+      "original": "Центрального районного суда",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[Org8]": {
+      "original": "СУД",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[Person3]": {
+      "original": "Иванова Алексея Сергеевича",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[Org9]": {
+      "original": "Общества с ограниченной ответственностью «Северный проект",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[Person4]": {
+      "original": "Соколова",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[Person5]": {
+      "original": "Дмитрия Андреевича",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[Person6]": {
+      "original": "Д.А. Соколов",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    }
+  }
+}

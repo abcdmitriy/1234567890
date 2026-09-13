@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "created": "2026-08-18T14:56:43.925722",
+    "name": "map_20260818_145643"
+  },
+  "mapping": {
+    "[Address]": {
+      "original": "г. Москвы 12.05.2010",
+      "category": "ADDRESS",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/1\\2\\test3.pdf",
+        "C:/Users/DZD66/OneDrive/Рабочий стол/1\\test1.docx"
+      ]
+    },
+    "[DeptCode]": {
+      "original": "код подразделения 772-001",
+      "category": "DEPT_CODE",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/1\\test1.docx"
+      ]
+    },
+    "[Address2]": {
+      "original": "г. Москва, ул. Тверская, д. 1, кв. 10",
+      "category": "ADDRESS",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/1\\2\\test3.pdf",
+        "C:/Users/DZD66/OneDrive/Рабочий стол/1\\test1.docx"
+      ]
+    },
+    "[Person3]": {
+      "original": "Продавцу",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/1\\2\\test3.pdf",
+        "C:/Users/DZD66/OneDrive/Рабочий стол/1\\test1.docx"
+      ]
+    },
+    "[Person4]": {
+      "original": "Продавца",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/1\\2\\test3.pdf",
+        "C:/Users/DZD66/OneDrive/Рабочий стол/1\\test1.docx"
+      ]
+    },
+    "[Address3]": {
+      "original": "г. Москва, ул. Тверская, д. 1, офис 5.\n3.2",
+      "category": "ADDRESS",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/1\\test1.docx"
+      ]
+    },
+    "[Address4]": {
+      "original": "г. Москва, ул. Тверская, д. 1, оф. 5",
+      "category": "ADDRESS",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/1\\2\\test3.pdf",
+        "C:/Users/DZD66/OneDrive/Рабочий стол/1\\test1.docx"
+      ]
+    },
+    "[Person5]": {
+      "original": "Петров П.П",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/1\\2\\test3.pdf",
+        "C:/Users/DZD66/OneDrive/Рабочий стол/1\\test1.docx"
+      ]
+    },
+    "[Person6]": {
+      "original": "Иванов Иван Иванович\nПаспорт",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/1\\test1.docx"
+      ]
+    },
+    "[Phone]": {
+      "original": "+7 (495) 123-45-67",
+      "category": "PHONE",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/1\\2\\test3.pdf",
+        "C:/Users/DZD66/OneDrive/Рабочий стол/1\\test1.docx"
+      ]
+    },
+    "[Person7]": {
+      "original": "Иванов И.И.",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/1\\2\\test3.pdf",
+        "C:/Users/DZD66/OneDrive/Рабочий стол/1\\test1.docx"
+      ]
+    },
+    "[Person8]": {
+      "original": "Петрова Петра \nПетровича",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/1\\2\\test3.pdf"
+      ]
+    },
+    "[DeptCode2]": {
+      "original": "код \nподразделения 772-001",
+      "category": "DEPT_CODE",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/1\\2\\test3.pdf"
+      ]
+    },
+    "[Address5]": {
+      "original": "г. Москва, ул. Тверская, д. 1, офис 5. \n3.2",
+      "category": "ADDRESS",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/1\\2\\test3.pdf"
+      ]
+    },
+    "[Person9]": {
+      "original": "Иванов Иван Иванович \nПаспорт",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/1\\2\\test3.pdf"
+      ]
+    }
+  }
+}

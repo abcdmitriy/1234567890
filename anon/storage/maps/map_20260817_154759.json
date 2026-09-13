@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "created": "2026-08-17T15:47:59.943875",
+    "name": "map_20260817_154759"
+  },
+  "mapping": {
+    "[Address]": {
+      "original": "г. Москва\n23",
+      "category": "ADDRESS",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Person]": {
+      "original": "Иванов Алексей Сергеевич",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Passport]": {
+      "original": "серии 45 19 № 314159",
+      "category": "PASSPORT",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Org]": {
+      "original": "Отделом",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    }
+  }
+}

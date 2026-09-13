@@ -1,0 +1,767 @@
+{
+  "metadata": {
+    "created": "2026-08-18T11:11:42.301586",
+    "name": "map_20260818_111142"
+  },
+  "mapping": {
+    "[Address]": {
+      "original": "г. Москва\n23",
+      "category": "ADDRESS",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Person]": {
+      "original": "Иванов Алексей Сергеевич",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx",
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[Passport]": {
+      "original": "серии 45 19 № 314159",
+      "category": "PASSPORT",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Org]": {
+      "original": "Отделом",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Org2]": {
+      "original": "МВД",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx",
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[DeptCode]": {
+      "original": "код подразделения 770-123",
+      "category": "DEPT_CODE",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Address2]": {
+      "original": "г. Москва, ул. Примерная, д. 7, кв. 21",
+      "category": "ADDRESS",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Person2]": {
+      "original": "Петрова Мария Андреевна",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Passport2]": {
+      "original": "серии 45 21 № 271828",
+      "category": "PASSPORT",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Address3]": {
+      "original": "г. Москва, ул. Новая, д. 12, корп. 1, кв. 36",
+      "category": "ADDRESS",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Org3]": {
+      "original": "Стороны",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Address4]": {
+      "original": "город Москва, улица Примерная, дом 15, корпус 2.\n1.3",
+      "category": "ADDRESS",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Person3]": {
+      "original": "Продавцу",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Person4]": {
+      "original": "Смирновой Еленой Викторовной",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Org4]": {
+      "original": "Едином государственном реестре недвижимости",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Person5]": {
+      "original": "Квартиру",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Org5]": {
+      "original": "Банка России",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Person6]": {
+      "original": "Покупателя",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Org6]": {
+      "original": "ЕГРН",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Org7]": {
+      "original": "Покупателем",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Person7]": {
+      "original": "Квартиры",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Person8]": {
+      "original": "Иванова Алексея Сергеевича",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx",
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[Person9]": {
+      "original": "Продавца",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Org8]": {
+      "original": "МФЦ",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Person10]": {
+      "original": "Квартирой",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Org9]": {
+      "original": "Продавцом Покупателю",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Org10]": {
+      "original": "Покупателю",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Person11]": {
+      "original": "Квартирой Продавцом",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Org11]": {
+      "original": "Продавцом документов",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Phone]": {
+      "original": "телефон +7 900 111-22-33",
+      "category": "PHONE",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Email]": {
+      "original": "почта ivanov.example@mail.ru",
+      "category": "EMAIL",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Phone2]": {
+      "original": "телефон +7 900 444-55-66",
+      "category": "PHONE",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Email2]": {
+      "original": "почта petrova.example@mail.ru.",
+      "category": "EMAIL",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Org12]": {
+      "original": "СПОРОВ",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Person12]": {
+      "original": "Сторонами",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Person13]": {
+      "original": "Иванов Алексей Сергеевич\nДата",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Passport3]": {
+      "original": "серия 45 19 № 314159",
+      "category": "PASSPORT",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[INN]": {
+      "original": "ИНН: 770412345678",
+      "category": "INN",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Phone3]": {
+      "original": "+7 900 111-22-33",
+      "category": "PHONE",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Email3]": {
+      "original": "ivanov.example@mail.ru",
+      "category": "EMAIL",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Person14]": {
+      "original": "Иванов Алексей Сергеевич\nСчёт",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Org13]": {
+      "original": "ПАО «Банк Развития",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[BIC]": {
+      "original": "БИК: 044525123",
+      "category": "BIC",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[INN2]": {
+      "original": ": 7701234567",
+      "category": "INN",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[BIC2]": {
+      "original": ": 770101001",
+      "category": "BIC",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Passport4]": {
+      "original": "серия 45 21 № 271828",
+      "category": "PASSPORT",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[INN3]": {
+      "original": "ИНН: 690112345678",
+      "category": "INN",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Phone4]": {
+      "original": "+7 900 444-55-66",
+      "category": "PHONE",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Email4]": {
+      "original": "petrova.example@mail.ru",
+      "category": "EMAIL",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Person15]": {
+      "original": "Петрова Мария Андреевна\nСчёт",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Org14]": {
+      "original": "АО «Столичный коммерческий банк»\nБИК",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[BIC3]": {
+      "original": "БИК: 044525456",
+      "category": "BIC",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[INN4]": {
+      "original": ": 7707654321",
+      "category": "INN",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[BIC4]": {
+      "original": ": 770701001",
+      "category": "BIC",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Address5]": {
+      "original": "город Москва, улица Примерная, дом 15, корпус 2, квартира 48",
+      "category": "ADDRESS",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Person16]": {
+      "original": "А.С. Иванов",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Person17]": {
+      "original": "М.А. Петрова",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Org15]": {
+      "original": "Центральный районный суд",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[INN5]": {
+      "original": "ИНН 8781310248",
+      "category": "INN",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[BIC5]": {
+      "original": "770701001",
+      "category": "BIC",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[Address6]": {
+      "original": "г. Москва,\nул. Складочная, д. 3, стр. 5, офис 412",
+      "category": "ADDRESS",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[Phone5]": {
+      "original": "+7 (495) 000-00-01",
+      "category": "PHONE",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[Email5]": {
+      "original": "почта: office@severproekt.ru",
+      "category": "EMAIL",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[Passport5]": {
+      "original": "серия 50 18 № 234567",
+      "category": "PASSPORT",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[Org16]": {
+      "original": "ГУ",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[DeptCode3]": {
+      "original": "код подразделения 540-001",
+      "category": "DEPT_CODE",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[Address7]": {
+      "original": "г. Новосибирск, ул. Мичурина, д. 18, кв. 42",
+      "category": "ADDRESS",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[Phone6]": {
+      "original": "+7 (913) 000-00-02",
+      "category": "PHONE",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[Email6]": {
+      "original": "почта: ivanov.as@example.ru",
+      "category": "EMAIL",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[Org17]": {
+      "original": "ЗАЯВЛЕНИЕ",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[Org18]": {
+      "original": "ООО «Северный проект",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[Person18]": {
+      "original": "Ивановым Алексеем Сергеевичем",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[Org19]": {
+      "original": "Ответчик",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[Org20]": {
+      "original": "Центрального районного суда",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[Org21]": {
+      "original": "СУД",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[Org22]": {
+      "original": "Общества с ограниченной ответственностью «Северный проект",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[Person19]": {
+      "original": "Соколова",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[Person20]": {
+      "original": "Дмитрия Андреевича",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[Person21]": {
+      "original": "Д.А. Соколов",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/iskovoe_zayavlenie_o_vzyskanii_dolga.docx"
+      ]
+    },
+    "[Org23]": {
+      "original": "Вектор-Снаб",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[INN6]": {
+      "original": "ИНН 7727456189",
+      "category": "INN",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[BIC6]": {
+      "original": "772701001",
+      "category": "BIC",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Address8]": {
+      "original": "г. Москва, Электролитный проезд,\nд. 3, стр. 2, офис 315",
+      "category": "ADDRESS",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Person22]": {
+      "original": "Морозову Илье Викторовичу",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Person23]": {
+      "original": "Соколова Андрея Сергеевича",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[INN7]": {
+      "original": "ИНН 771234567890",
+      "category": "INN",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Address9]": {
+      "original": "г. Москва, ул. Складочная,\nд. 3, стр. 1, офис 214",
+      "category": "ADDRESS",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Phone7]": {
+      "original": "+7 (495) 123-45-67",
+      "category": "PHONE",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Email7]": {
+      "original": "почта: sokolov@promlight-example.ru",
+      "category": "EMAIL",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Person24]": {
+      "original": "Соколовым Андреем Сергеевичем",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Org24]": {
+      "original": "Поставщик",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Org25]": {
+      "original": "Поставщика",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Person25]": {
+      "original": "Покупателем",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Org26]": {
+      "original": "ООО «Вектор-Снаб»",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Org27]": {
+      "original": "ИП",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Person26]": {
+      "original": "Соколовым А.С.",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Person27]": {
+      "original": "Поставщику",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Person28]": {
+      "original": "Соколову Андрею Сергеевичу",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[INN8]": {
+      "original": "ИНН: 771234567890",
+      "category": "INN",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[BankAccount]": {
+      "original": "Расчетный счет: 40802810900000012345",
+      "category": "BANK_ACCOUNT",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Org28]": {
+      "original": "АО «Северный коммерческий банк",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[BIC7]": {
+      "original": "БИК: 044525999",
+      "category": "BIC",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Person29]": {
+      "original": "Соколов А.С.",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Org29]": {
+      "original": "Арбитражный суд",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Address10]": {
+      "original": "г. Москва, ул. Складочная, д. 3, стр. 1, офис 214",
+      "category": "ADDRESS",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Email8]": {
+      "original": "sokolov@promlight-example.ru.",
+      "category": "EMAIL",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Person30]": {
+      "original": "Соколова А.С.\nИндивидуальный",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[привет]": {
+      "original": "1. ПРЕДМЕТ ДОГОВОРА",
+      "category": "USER",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    }
+  }
+}

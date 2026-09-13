@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "created": "2026-08-17T17:50:43.462024",
+    "name": "map_20260817_175043"
+  },
+  "mapping": {
+    "[Person]": {
+      "original": "Соколов Дмитрий Павлович\nТелефон",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/Документ Microsoft Word.docx"
+      ]
+    },
+    "[Phone]": {
+      "original": "+7 (903) 555-12-34",
+      "category": "PHONE",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/Документ Microsoft Word.docx"
+      ]
+    },
+    "[Email]": {
+      "original": "почта: d.sokolov@inbox.ru",
+      "category": "EMAIL",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/Документ Microsoft Word.docx"
+      ]
+    },
+    "[Address]": {
+      "original": "г. Москва, ул. Покровка, д. 12, кв. 34",
+      "category": "ADDRESS",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/Документ Microsoft Word.docx"
+      ]
+    },
+    "[привет]": {
+      "original": "При необходимости могу продиктовать паспортные данные и банковские реквизиты для оформления документов. Лучшее время для звонка — с 10:00 до 18:00 по будням.",
+      "category": "USER",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/Документ Microsoft Word.docx"
+      ]
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "created": "2026-08-17T17:36:56.718749",
+    "name": "map_20260817_173656"
+  },
+  "mapping": {
+    "[Email]": {
+      "original": "почта: d.sokolov@inbox.ru",
+      "category": "EMAIL",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/Документ Microsoft Word.docx"
+      ]
+    },
+    "[Address]": {
+      "original": "г. Москва, ул. Покровка, д. 12, кв. 34",
+      "category": "ADDRESS",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/Документ Microsoft Word.docx"
+      ]
+    },
+    "[Email2]": {
+      "original": "d.sokolov@inbox.ru",
+      "category": "EMAIL",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/Документ Microsoft Word.docx"
+      ]
+    }
+  }
+}

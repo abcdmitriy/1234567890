@@ -1,0 +1,7 @@
+﻿PyQt5==5.15.10
+python-docx
+PyMuPDF
+pytesseract
+Pillow
+natasha
+openpyxl

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "created": "2026-08-17T15:50:24.777940",
+    "name": "map_20260817_155024"
+  },
+  "mapping": {
+    "[Phone]": {
+      "original": "+7 (495) 123-45-67",
+      "category": "PHONE",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/test1.docx"
+      ]
+    },
+    "[Person4]": {
+      "original": "Иванов И.И.",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/test1.docx"
+      ]
+    }
+  }
+}

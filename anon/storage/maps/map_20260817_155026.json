@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "created": "2026-08-17T15:50:26.941649",
+    "name": "map_20260817_155026"
+  },
+  "mapping": {
+    "[Org]": {
+      "original": "ТехноТрейд",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/test1.docx"
+      ]
+    },
+    "[Person]": {
+      "original": "Петрова Петра Петровича",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/test1.docx"
+      ]
+    }
+  }
+}

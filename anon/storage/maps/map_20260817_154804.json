@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "created": "2026-08-17T15:48:04.999412",
+    "name": "map_20260817_154804"
+  },
+  "mapping": {
+    "[Address]": {
+      "original": "г. Москва\n23",
+      "category": "ADDRESS",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Person]": {
+      "original": "Иванов Алексей Сергеевич",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Passport]": {
+      "original": "серии 45 19 № 314159",
+      "category": "PASSPORT",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Org]": {
+      "original": "Отделом",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Org2]": {
+      "original": "МВД",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[DeptCode]": {
+      "original": "код подразделения 770-123",
+      "category": "DEPT_CODE",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Address2]": {
+      "original": "г. Москва, ул. Примерная, д. 7, кв. 21",
+      "category": "ADDRESS",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Person2]": {
+      "original": "Петрова Мария Андреевна",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Passport2]": {
+      "original": "серии 45 21 № 271828",
+      "category": "PASSPORT",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[DeptCode2]": {
+      "original": "код подразделения 770-456",
+      "category": "DEPT_CODE",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Address3]": {
+      "original": "г. Москва, ул. Новая, д. 12, корп. 1, кв. 36",
+      "category": "ADDRESS",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Org3]": {
+      "original": "Стороны",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Address4]": {
+      "original": "город Москва, улица Примерная, дом 15, корпус 2, квартира 48",
+      "category": "ADDRESS",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    },
+    "[Address5]": {
+      "original": "город Москва, улица Примерная, дом 15, корпус 2.\n1.3",
+      "category": "ADDRESS",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/dogovor-kupli-prodazhi-kvartiry.docx"
+      ]
+    }
+  }
+}

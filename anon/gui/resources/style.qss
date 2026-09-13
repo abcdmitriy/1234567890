@@ -1,0 +1,19 @@
+/* gui/resources/style.qss */
+/* Минимальный стиль для GUI — можно дополнить по желанию */
+QMainWindow {
+    background: #f5f5f5;
+}
+
+QPushButton {
+    background-color: #4d6bfe;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 6px 12px;
+}
+QPushButton:hover {
+    background-color: #3a56d4;
+}
+QPushButton:pressed {
+    background-color: #2d44b0;
+}

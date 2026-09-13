@@ -1,0 +1,45 @@
+anon/                                       # корень проекта
+├── core/                                   # ядро (уже существует)
+│   ├── __init__.py
+│   ├── base_parser.py                      # базовые классы для парсинга
+│   ├── detectors/                          # детекторы чувствительных данных
+│   │   ├── __init__.py
+│   │   ├── address_detector.py             # поиск адресов
+│   │   ├── detector_manager.py             # управление всеми детекторами
+│   │   ├── ner_detector.py                 # NER (имена, организации)
+│   │   ├── regex_detectors.py              # регулярки для телефонов, email, паспортов, ИНН и т.д.
+│   │   └── user_dictionary.py              # (пока отсутствует) пользовательский словарь
+│   ├── parsers/                            # парсеры документов
+│   │   ├── __init__.py
+│   │   ├── docx_parser.py
+│   │   ├── image_parser.py
+│   │   └── pdf_parser.py
+│   ├── processors/                         # обработка: маппинг, замена, деанонимизация
+│   │   ├── __init__.py
+│   │   ├── deanon.py
+│   │   ├── mapper.py
+│   │   └── replacer.py
+│   ├── report_generator.py                 # генерация отчётов и карт
+│   └── utils.py                            # вспомогательные утилиты
+│
+├── gui/                                    # НОВАЯ ПАПКА – графический интерфейс
+│   ├── __init__.py                         # экспорт главных классов
+│   ├── main_window.py                      # главное окно (бывший front.py, но разбит)
+│   ├── settings_dialog.py                  # диалог настроек (категории, папка сохранения)
+│   ├── anonymize_worker.py                 # фоновый поток, вызывающий core.pipeline
+│   ├── mapping_table.py                    # (опционально) модель таблицы карты соответствий
+│   └── resources/                          # иконки, стили, QSS
+│       ├── icons/
+│       └── style.qss
+│
+├── storage/                                # (уже есть) работа с хранилищем карт
+│   ├── map_manager.py
+│   └── file_handler.py
+│
+├── models/                                 # (пока пусто) для хранения обученных моделей
+│
+├── main.py                                 # CLI-точка входа (существует)
+├── gui_main.py                             # НОВЫЙ ФАЙЛ – точка входа для GUI
+├── requirements.txt                        # обновлён (PyQt5, openpyxl и др.)
+├── дерево.txt                              # существующее описание структуры
+└── .env.example                            # (опционально) переменные окружения

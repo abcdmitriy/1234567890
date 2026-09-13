@@ -1,0 +1,211 @@
+{
+  "metadata": {
+    "created": "2026-08-17T15:49:14.562132",
+    "name": "map_20260817_154914"
+  },
+  "mapping": {
+    "[Org]": {
+      "original": "Вектор-Снаб",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[INN]": {
+      "original": "ИНН 7727456189",
+      "category": "INN",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[BIC]": {
+      "original": "772701001",
+      "category": "BIC",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Address]": {
+      "original": "г. Москва, Электролитный проезд,\nд. 3, стр. 2, офис 315",
+      "category": "ADDRESS",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Person]": {
+      "original": "Морозову Илье Викторовичу",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Person2]": {
+      "original": "Соколова Андрея Сергеевича",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[INN2]": {
+      "original": "ИНН 771234567890",
+      "category": "INN",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Address2]": {
+      "original": "г. Москва, ул. Складочная,\nд. 3, стр. 1, офис 214",
+      "category": "ADDRESS",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Phone]": {
+      "original": "+7 (495) 123-45-67",
+      "category": "PHONE",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Email]": {
+      "original": "почта: sokolov@promlight-example.ru",
+      "category": "EMAIL",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Person3]": {
+      "original": "Соколовым Андреем Сергеевичем",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Org2]": {
+      "original": "Поставщик",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Org3]": {
+      "original": "Поставщика",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Person4]": {
+      "original": "Покупателем",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Org4]": {
+      "original": "ООО «Вектор-Снаб»",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Org5]": {
+      "original": "ИП",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Person5]": {
+      "original": "Соколовым А.С.",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Person6]": {
+      "original": "Поставщику",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Person7]": {
+      "original": "Соколову Андрею Сергеевичу",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[INN3]": {
+      "original": "ИНН: 771234567890",
+      "category": "INN",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[BankAccount]": {
+      "original": "Расчетный счет: 40802810900000012345",
+      "category": "BANK_ACCOUNT",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Org6]": {
+      "original": "АО «Северный коммерческий банк",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[BIC2]": {
+      "original": "БИК: 044525999",
+      "category": "BIC",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Person8]": {
+      "original": "Соколов А.С.",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Org7]": {
+      "original": "Арбитражный суд",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Address3]": {
+      "original": "г. Москва, ул. Складочная, д. 3, стр. 1, офис 214",
+      "category": "ADDRESS",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Email2]": {
+      "original": "sokolov@promlight-example.ru.",
+      "category": "EMAIL",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Person9]": {
+      "original": "Соколова А.С.\nИндивидуальный",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Person10]": {
+      "original": "А.С. Соколов",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    }
+  }
+}

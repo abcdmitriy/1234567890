@@ -1,0 +1,12 @@
+Обработано файлов: 1
+Успешно обработано: 1
+Не удалось обработать: 0
+
+  ADDRESS: 1
+  EMAIL: 1
+  PERSON: 1
+  PHONE: 1
+
+Всего замен: 4
+Создана карта соответствия: anonymization-map.json
+Обработанные файлы сохранены в папке: C:\Users\DZD66\OneDrive\Рабочий стол\project\anon\tmp_anonymized

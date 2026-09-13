@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "created": "2026-08-18T13:30:58.153743",
+    "name": "map_20260818_133058"
+  },
+  "mapping": {
+    "[Org]": {
+      "original": "Вектор-Снаб",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[INN]": {
+      "original": "ИНН 7727456189",
+      "category": "INN",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[BIC]": {
+      "original": "772701001",
+      "category": "BIC",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Address]": {
+      "original": "г. Москва, Электролитный проезд,\nд. 3, стр. 2, офис 315",
+      "category": "ADDRESS",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Person]": {
+      "original": "Морозову Илье Викторовичу",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Person2]": {
+      "original": "Соколова Андрея Сергеевича",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[INN2]": {
+      "original": "ИНН 771234567890",
+      "category": "INN",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Address2]": {
+      "original": "г. Москва, ул. Складочная,\nд. 3, стр. 1, офис 214",
+      "category": "ADDRESS",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Phone]": {
+      "original": "+7 (495) 123-45-67",
+      "category": "PHONE",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Email]": {
+      "original": "почта: sokolov@promlight-example.ru",
+      "category": "EMAIL",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Person3]": {
+      "original": "Соколовым Андреем Сергеевичем",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Org2]": {
+      "original": "Поставщик",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Org3]": {
+      "original": "Поставщика",
+      "category": "ORG",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[Person4]": {
+      "original": "Покупателем",
+      "category": "PERSON",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    },
+    "[привет]": {
+      "original": "В соответствии с пунктом 1.1 договора Поставщик обязался передать Покупателю промышленные светодиодные светильники модели «ПромЛюкс-150», а Покупатель обязался принять товар и оплатить его в порядке и сроки, предусмотренные договором и спецификацией.",
+      "category": "USER",
+      "files": [
+        "C:/Users/DZD66/OneDrive/Рабочий стол/pretenziya_IP_Sokolov_k_OOO_Vektor_Snab.docx"
+      ]
+    }
+  }
+}
