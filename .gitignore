@@ -1,6 +1,26 @@
-﻿venv/
-.venv/
+﻿# Python
 __pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# IDE
 .idea/
-*.pyc
+.vscode/
+
+# Generated artifacts
+anon/storage/maps/*.json
+!anon/storage/maps/.gitkeep
+anon/tmp_anonymized/
+output_test/
+output/
 *.log
+
+# Generated artifacts
+anon/storage/maps/*.json
+!anon/storage/maps/.gitkeep
+anon/tmp_anonymized/
+output_test/
+output/
