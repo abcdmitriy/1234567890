@@ -24,3 +24,12 @@ anon/storage/maps/*.json
 anon/tmp_anonymized/
 output_test/
 output/
+
+# Docs
+docs/*.docx
+!docs/*.md
+
+# Local outputs
+output/
+output_test/
+anon/tmp_anonymized/
